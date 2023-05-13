@@ -1,3 +1,11 @@
+###> MacBook ###
+.DS_Store
+###> MacBook ###
+
+###> IDE ###
+.idea/
+.vscode/
+###> IDE ###
 
 ###> symfony/framework-bundle ###
 /.env.local
